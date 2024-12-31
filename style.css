@@ -1,0 +1,11 @@
+th{
+    background-color: black;
+    color: white;
+}
+td{
+    text-align: center;
+}
+#T{
+    width: 100%;
+    height: 60%;
+}
